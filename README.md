@@ -22,7 +22,7 @@ make clean install
 
 ## Running the tests
 
-run
+Run
 ```
 surf [URI]
 ```
